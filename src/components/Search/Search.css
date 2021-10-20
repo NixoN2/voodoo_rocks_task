@@ -1,0 +1,9 @@
+.search-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.search {
+    max-width: 320px;
+}
